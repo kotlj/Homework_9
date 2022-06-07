@@ -1,0 +1,7 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Homework_9, Конфигурация: Debug x64 ------
+1>Homework_9.cpp
+1>C:\Users\crotl_000\source\repos\Homework_9\Homework_9.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>Homework_9.vcxproj -> C:\Users\crotl_000\source\repos\Homework_9\x64\Debug\Homework_9.exe
+1>Сборка проекта "Homework_9.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
